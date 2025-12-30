@@ -1,10 +1,11 @@
-module github.com/Balajivarma28092006
+module github.com/Balajivarma28092006/todo-using-go
 
 go 1.25.5
 
 require (
 	github.com/charmbracelet/bubbletea v1.3.10
 	github.com/charmbracelet/lipgloss v1.1.0
+	go.etcd.io/bbolt v1.4.3
 )
 
 require (
